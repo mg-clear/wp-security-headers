@@ -2,7 +2,7 @@
 
 Add the php file into /wp-content/mu-plugins/ directory. Must-Use directory prevents deactivating and uninstalling.
 
-Must-use plugin to set baseline security headers that should pass checks for:
+Must-use plugin to set baseline security headers that should pass checks (https://securityheaders.com/) for:
 
 - Permissions-Policy
 - Referrer-Policy
